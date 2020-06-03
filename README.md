@@ -7,7 +7,7 @@
 
 
 
-**Background Em:** Pós Graduado em Segurança da informação e com alegria, em transição para a mundo da Ciência de Dados.
+**Pós Graduado em Segurança da informação e com alegria, em transição para a mundo da Ciência de Dados.**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
