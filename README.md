@@ -3,7 +3,7 @@
 </p>
 
 # Eric Fruchi
-<sub>*Information Security Analyst | Data Science Student</sub>
+<sub>**Information Security Analyst | Data Science Student**</sub>
 
 
 
