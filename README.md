@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_.png" >
+  <img src="banner_2.png" >
 </p>
 
 # Eric Fruchi
