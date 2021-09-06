@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_2.png" >
+  <img src="Data science.png" >
 </p>
 
 # Eric Fruchi
