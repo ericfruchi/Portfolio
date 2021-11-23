@@ -5,7 +5,7 @@
 # Eric Fruchi
 <sub>**Information Security Analyst | Data Science Student**</sub>
 
-**Compartilhar o que aprendi me faz entender que estou no caminho certo.**
+**Compartilhar o que aprendi, me faz entender que estou no caminho certo.**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
