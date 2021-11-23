@@ -3,7 +3,7 @@
 </p>
 
 # Eric Fruchi
-<sub>**Information Security Analyst | Data Science Student**</sub>
+<sub>**Analista de Dados**</sub>
 
 **Compartilhar o que aprendi, me faz entender que estou no caminho certo.**
 
