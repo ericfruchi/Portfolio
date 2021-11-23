@@ -5,9 +5,7 @@
 # Eric Fruchi
 <sub>**Information Security Analyst | Data Science Student**</sub>
 
-
-
-**Pós Graduado em Segurança da informação e com alegria, em transição para a mundo da Ciência de Dados.**
+**Compartilhar o que aprendi me faz entender que estou no caminho certo.**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
@@ -15,4 +13,4 @@
 
 
 ## Projetos:
-Projeto 1 - Sigmoidal: https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb
+Projeto 1 - Sigmoidal | Analisando os Dados do Airbnb da Cidade de Amsterdã com Python: https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb
