@@ -15,3 +15,4 @@
 
 
 ## Projetos:
+Projeto 1 - Sigmoidal: https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb
