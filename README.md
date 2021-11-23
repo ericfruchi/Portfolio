@@ -7,8 +7,8 @@
 
 **Compartilhar o que aprendi, me faz entender que estou no caminho certo.**
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
+**Links para onde me encontrar:**
+* [Linkedin](https://www.linkedin.com/in/eric-fruchi-93137387/)
 * [Meu Medium](https://medium.com/@ericfruchi)
 * [Twitter](https://twitter.com/ericfruchi)
 
