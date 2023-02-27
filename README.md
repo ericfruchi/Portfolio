@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data-word-cloud.png" >
+  <img src="[data-word-cloud.png](https://github.com/ericfruchi/fonte_de_dados/blob/master/data-word-cloud.png)" >
 </p>
 
 # Eric Fruchi
