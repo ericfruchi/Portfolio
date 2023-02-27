@@ -14,6 +14,7 @@
 * [Datacamp](https://app.datacamp.com/profile/ericfruchi)
 
 ## Projetos:
-* [Estudo de caso 1 - SIGMOIDAL | Analisando os Dados do Airbnb da Cidade de Amsterdã com Python](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
+* [Analisando os Dados do Airbnb da Cidade de Amsterdã com Python](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
 * [Meu artigo no Medium desse Projeto](https://medium.com/@ericfruchi/analisando-os-dados-do-airbnb-da-cidade-de-amsterd%C3%A3-com-python-2c2cd9e4d23a)
+
 * [Meu Relatório da Netflix - Análise de Dados (em python)](https://github.com/ericfruchi/Portfolio/blob/master/MeuRelatorio_Netflix.ipynb) 
