@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ericfruchi/fonte_de_dados/blob/master/Analise_de_Dados.png" >
+  <img src="data-word-cloud.png" >
 </p>
 
 # Eric Fruchi
