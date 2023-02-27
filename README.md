@@ -11,6 +11,7 @@
 * [Linkedin](https://www.linkedin.com/in/eric-fruchi-93137387/)
 * [Meu Medium](https://medium.com/@ericfruchi)
 * [Twitter](https://twitter.com/ericfruchi)
+* [Datacamp](https://app.datacamp.com/profile/ericfruchi)
 
 ## Projetos:
 * [Estudo de caso 1 - SIGMOIDAL | Analisando os Dados do Airbnb da Cidade de Amsterdã com Python](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
