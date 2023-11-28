@@ -14,6 +14,6 @@
 * [Meu artigo no Medium desse Projeto (Airbnb da Cidade de Amsterdã com Python)](https://medium.com/@ericfruchi/analisando-os-dados-do-airbnb-da-cidade-de-amsterd%C3%A3-com-python-2c2cd9e4d23a)
 
 **Links para onde me encontrar:**
-* [Linkedin](https://www.linkedin.com/in/eric-fruchi-93137387/)
-* [Meu Medium](https://medium.com/@ericfruchi)
-* [Meus Dashboards - Power BI](https://sites.google.com/view/ericfruchi-dashportfolio/home)
+* [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
+* [Blog Medium](https://medium.com/@ericfruchi)
+* [Portfólio de Dashboards](https://sites.google.com/view/ericfruchi-dashportfolio/home)
