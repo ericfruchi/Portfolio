@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[(https://github.com/ericfruchi/fonte_de_dados/blob/master/data_is_watching_you.jpg?raw=true)]" >
+  <img src=(https://github.com/ericfruchi/fonte_de_dados/blob/master/data_is_watching_you.jpg?raw=true)>
 </p>
 
 # Eric Fruchi
