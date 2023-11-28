@@ -3,7 +3,7 @@
 </p>
 
 # Eric Fruchi
-<sub>**Analista de Dados**</sub>
+<sub>**Orientado a dados**</sub>
 
 **Compartilhar o que aprendi, me faz entender que estou no caminho certo.**
 
