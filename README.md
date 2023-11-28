@@ -1,5 +1,5 @@
 <p align="center">
-  <left><img alt="data is watching you" width="60%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/data_is_watching_you.jpg?raw=true"></left>
+  <left><img alt="data-oriented" width="60%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true"></left>
 </p>
 
 # Eric Fruchi
