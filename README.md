@@ -1,11 +1,11 @@
 <p align="center">
-  <left><img alt="data-oriented" width="60%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true"></left>
+  <left><img alt="data-oriented" width="60%" src="[https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true](https://img.freepik.com/free-vector/line-graph-with-line-graph-that-says-number-s_698780-1079.jpg?t=st=1712077845~exp=1712081445~hmac=b395d11ca2771feb0416f2e77bf289c859f307922df3ee24e9cc878c94e31759&w=826)"></left>
 </p>
 
 # Eric Fruchi
 <sub>**Orientado a dados**</sub>
 
-**Compartilhar o que aprendi, me faz entender que estou no caminho certo.**
+**Não sei se foi eu que encontrei a análise de dados ou foi a análise de dados que me encontrou🤝.**
 
 ## Projetos:
 * [Analisando o Jogo, Consumo e Audiência do Super Bowl](https://github.com/ericfruchi/Portfolio/blob/master/Analisando_o_jogo%2C_consumo_e_audi%C3%AAncia_do_Super_Bowl.ipynb)
