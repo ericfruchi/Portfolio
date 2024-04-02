@@ -1,5 +1,5 @@
 <p align="center">
-  <left><img alt="data-oriented" width="60%" src="[https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true](https://img.freepik.com/free-vector/line-graph-with-line-graph-that-says-number-s_698780-1079.jpg?t=st=1712077845~exp=1712081445~hmac=b395d11ca2771feb0416f2e77bf289c859f307922df3ee24e9cc878c94e31759&w=826)"></left>
+  <left><img alt="data-oriented" width="60%" src="[https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true]"></left>
 </p>
 
 # Eric Fruchi
