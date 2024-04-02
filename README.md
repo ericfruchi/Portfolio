@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  <img alt="data-oriented" width="100%" src="https://img.freepik.com/fotos-gratis/fundo-gradiente-de-grade-digital-futurista-azul-escuro_53876-129728.jpg?t=st=1712083633~exp=1712087233~hmac=7bffce3790aaab7d8746d01f6496d8a6ed0891df95ae910cc52af985d5da6ad5&w=826">
 </p>
 
 # Eric Fruchi
