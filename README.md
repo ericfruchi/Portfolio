@@ -1,5 +1,5 @@
 <p align="left">
-  <img alt="data-oriented" width="60%" src="https://img.freepik.com/free-vector/line-graph-with-line-graph-that-says-number-s_698780-1079.jpg?w=826&t=st=1712078389~exp=1712078989~hmac=b5f9f8e142bd2238c417fe3dc5d629e81832ecae8a57392271cd653c55665d78">
+  <img alt="data-oriented" width="60%" src="https://media.licdn.com/dms/image/D4E16AQGy2_X2BG74HA/profile-displaybackgroundimage-shrink_350_1400/0/1704402518036?e=1717632000&v=beta&t=Dve0lZoiVvmdajDyw7R-cCYq2ftArQ6Sl6GPMwVOum4">
 </p>
 
 # Eric Fruchi
