@@ -1,5 +1,5 @@
-<p align="left">
-  <img alt="data-oriented" width="60%" src="https://media.licdn.com/dms/image/D4E16AQGy2_X2BG74HA/profile-displaybackgroundimage-shrink_350_1400/0/1704402518036?e=1717632000&v=beta&t=Dve0lZoiVvmdajDyw7R-cCYq2ftArQ6Sl6GPMwVOum4">
+<p align="center">
+  <img alt="data-oriented" width="80%" src="https://media.licdn.com/dms/image/D4E16AQGy2_X2BG74HA/profile-displaybackgroundimage-shrink_350_1400/0/1704402518036?e=1717632000&v=beta&t=Dve0lZoiVvmdajDyw7R-cCYq2ftArQ6Sl6GPMwVOum4">
 </p>
 
 # Eric Fruchi
