@@ -8,6 +8,7 @@
 **Compartilhar o que aprendi, me faz entender que estou no caminho certo.**
 
 ## Projetos:
+* [Analisando o Jogo, Consumo e Audiência do Super Bowl*](https://github.com/ericfruchi/Portfolio/blob/master/Analisando_o_jogo%2C_consumo_e_audi%C3%AAncia_do_Super_Bowl.ipynb)
 * [Análise de Dados - NBA Players](https://github.com/ericfruchi/Portfolio/blob/master/An%C3%A1lise_de_Dados_NBA_Players.ipynb)
 * [Meu Relatório da Netflix - Análise de Dados (em python)](https://github.com/ericfruchi/Portfolio/blob/master/MeuRelatorio_Netflix.ipynb) 
 * [Analisando os Dados do Airbnb da Cidade de Amsterdã com Python](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
