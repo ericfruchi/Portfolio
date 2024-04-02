@@ -1,5 +1,5 @@
 <p align="center">
-  <left><img alt="data-oriented" width="60%" src="[https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true]"></left>
+  <img alt="data-oriented" width="60%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true">
 </p>
 
 # Eric Fruchi
