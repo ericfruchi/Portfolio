@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="60%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/cover%20github%20(1).png?raw=true">
+  <img alt="data-oriented" width="60%" src="https://img.freepik.com/free-vector/line-graph-with-line-graph-that-says-number-s_698780-1079.jpg?w=826&t=st=1712078389~exp=1712078989~hmac=b5f9f8e142bd2238c417fe3dc5d629e81832ecae8a57392271cd653c55665d78">
 </p>
 
 # Eric Fruchi
