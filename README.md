@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="https://media.licdn.com/dms/image/D4E16AQGy2_X2BG74HA/profile-displaybackgroundimage-shrink_350_1400/0/1704402518036?e=1717632000&v=beta&t=Dve0lZoiVvmdajDyw7R-cCYq2ftArQ6Sl6GPMwVOum4">
+  <img alt="data-oriented" width="100%" src="https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 </p>
 
 # Eric Fruchi
