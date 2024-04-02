@@ -3,9 +3,7 @@
 </p>
 
 # Eric Fruchi
-<sub>**Orientado a dados**</sub>
-
-**Não sei se foi eu que encontrei a análise de dados ou foi a análise de dados que me encontrou🤝.**
+<sub>**Não sei se foi eu que encontrei a análise de dados ou foi a análise de dados que me encontrou🤝**</sub>
 
 ## Projetos:
 * [Analisando o Jogo, Consumo e Audiência do Super Bowl](https://github.com/ericfruchi/Portfolio/blob/master/Analisando_o_jogo%2C_consumo_e_audi%C3%AAncia_do_Super_Bowl.ipynb)
