@@ -5,7 +5,7 @@
 # Eric Fruchi
 <sub>**Não sei se foi eu que encontrei a análise de dados ou foi a análise de dados que me encontrou🤝**</sub>
 
-## Projetos:
+## Projetos em Python:
 * [Análise de Dados - Estádios pelo Mundo](Análise_de_Dados_Estádios_pelo_Mundo.ipynb)
 * [Analisando o Jogo, Consumo e Audiência do Super Bowl](https://github.com/ericfruchi/Portfolio/blob/master/Analisando_o_jogo%2C_consumo_e_audi%C3%AAncia_do_Super_Bowl.ipynb)
 * [Análise de Dados - NBA Players](https://github.com/ericfruchi/Portfolio/blob/master/An%C3%A1lise_de_Dados_NBA_Players.ipynb)
