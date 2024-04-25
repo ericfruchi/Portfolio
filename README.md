@@ -13,6 +13,11 @@
 * [Analisando os Dados do Airbnb da Cidade de Amsterdã com Python](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
 * [Meu artigo no Medium desse Projeto (Airbnb da Cidade de Amsterdã com Python)](https://medium.com/@ericfruchi/analisando-os-dados-do-airbnb-da-cidade-de-amsterd%C3%A3-com-python-2c2cd9e4d23a)
 
+Falando em artigos do Medium, apresento mais alguns:
+* [Analisando histórico de vendas de uma padaria — Identificando padrões de vendas e clientes.](https://medium.com/@ericfruchi/an%C3%A1lise-de-dados-de-uma-padaria-853d9af167ee)
+* [Análise de Dados do Aplicativo de Relacionamento OkCupid — Identificando padrões de usuários.](https://medium.com/@ericfruchi/an%C3%A1lise-do-perfil-dos-usu%C3%A1rios-do-aplicativo-okcupid-9d8f8570d80a)
+
+
 **Links para onde me encontrar:**
 * [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
 * [Blog Medium](https://medium.com/@ericfruchi)
