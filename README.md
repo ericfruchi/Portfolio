@@ -11,7 +11,7 @@
 * [Análise de Dados - NBA Players](https://github.com/ericfruchi/Portfolio/blob/master/An%C3%A1lise_de_Dados_NBA_Players.ipynb)
 * [Meu Relatório Netflix - Analisando os dados da minha conta](https://github.com/ericfruchi/Portfolio/blob/master/MeuRelatorio_Netflix.ipynb) 
 * [Analisando os Dados do Airbnb da Cidade de Amsterdã com Python](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
-* [Meu artigo no Medium desse Projeto (Airbnb da Cidade de Amsterdã com Python)](https://medium.com/@ericfruchi/analisando-os-dados-do-airbnb-da-cidade-de-amsterd%C3%A3-com-python-2c2cd9e4d23a)
+    * [Meu artigo no Medium desse Projeto (Airbnb da Cidade de Amsterdã com Python)](https://medium.com/@ericfruchi/analisando-os-dados-do-airbnb-da-cidade-de-amsterd%C3%A3-com-python-2c2cd9e4d23a)
 
 Falando em artigos do Medium, apresento mais alguns:
 * [Analisando histórico de vendas de uma padaria — Identificando padrões de vendas e clientes.](https://medium.com/@ericfruchi/an%C3%A1lise-de-dados-de-uma-padaria-853d9af167ee)
