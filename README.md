@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="https://www.canva.com/design/DAGRs5kUYmw/qhEcrvUW9gDpRl5fJr2pqw/edit?utm_content=DAGRs5kUYmw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <img alt="data-oriented" width="100%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/cover_github.png?raw=true">
 </p>
 
 
