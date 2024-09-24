@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  <img alt="data-oriented" width="100%" src="https://www.canva.com/design/DAGRs5kUYmw/qhEcrvUW9gDpRl5fJr2pqw/edit?utm_content=DAGRs5kUYmw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 </p>
 
 
