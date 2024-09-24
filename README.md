@@ -2,21 +2,6 @@
   <img alt="data-oriented" width="100%" src="[https://img.freepik.com/fotos-gratis/fundo-gradiente-de-grade-digital-futurista-azul-escuro_53876-129728.jpg?t=st=1712083633~exp=1712087233~hmac=7bffce3790aaab7d8746d01f6496d8a6ed0891df95ae910cc52af985d5da6ad5&w=826](https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
 </p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611ib7n6spqqhn5sy1dxek77h2u3j08snn7m8a54b26&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
 # Eric Fruchi
 
 ## Meus Projetos em Python:
