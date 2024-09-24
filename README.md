@@ -19,5 +19,6 @@ Falando em artigos do Medium... apresento mais alguns:
 
 **Links para onde me encontrar:**
 * [LinkedIn](https://www.linkedin.com/in/eric-fruchi-93137387/)
+*   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 * [Blog Medium](https://medium.com/@ericfruchi)
 * [Portfólio de Dashboards](https://sites.google.com/view/ericfruchi-dashportfolio/home)
