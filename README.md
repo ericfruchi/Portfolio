@@ -1,10 +1,25 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="https://img.freepik.com/fotos-gratis/fundo-gradiente-de-grade-digital-futurista-azul-escuro_53876-129728.jpg?t=st=1712083633~exp=1712087233~hmac=7bffce3790aaab7d8746d01f6496d8a6ed0891df95ae910cc52af985d5da6ad5&w=826">
+  <img alt="data-oriented" width="100%" src="[https://img.freepik.com/fotos-gratis/fundo-gradiente-de-grade-digital-futurista-azul-escuro_53876-129728.jpg?t=st=1712083633~exp=1712087233~hmac=7bffce3790aaab7d8746d01f6496d8a6ed0891df95ae910cc52af985d5da6ad5&w=826](https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
 </p>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611ib7n6spqqhn5sy1dxek77h2u3j08snn7m8a54b26&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
 
 # Eric Fruchi
 
-## Projetos em Python:
+## Meus Projetos em Python:
 * [Análise de Dados - Estádios pelo Mundo](Análise_de_Dados_Estádios_pelo_Mundo.ipynb)
 * [Analisando o Jogo, Consumo e Audiência do Super Bowl](https://github.com/ericfruchi/Portfolio/blob/master/Analisando_o_jogo%2C_consumo_e_audi%C3%AAncia_do_Super_Bowl.ipynb)
 * [Análise de Dados - NBA Players](https://github.com/ericfruchi/Portfolio/blob/master/An%C3%A1lise_de_Dados_NBA_Players.ipynb)
@@ -16,21 +31,3 @@ Falando em artigos do Medium... apresento mais alguns:
 * [Analisando Histórico de Vendas de uma Padaria — Identificando Padrões de Vendas e Clientes.](https://medium.com/@ericfruchi/an%C3%A1lise-de-dados-de-uma-padaria-853d9af167ee)
 * [Análise de Dados do Aplicativo de Relacionamento OkCupid — Identificando padrões de usuários.](https://medium.com/@ericfruchi/an%C3%A1lise-do-perfil-dos-usu%C3%A1rios-do-aplicativo-okcupid-9d8f8570d80a)
 
-
-<h2 align="left">Socia Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ericfruchi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@ericfruchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://linktr.ee/ericfruchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
