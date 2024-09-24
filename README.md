@@ -17,7 +17,20 @@ Falando em artigos do Medium... apresento mais alguns:
 * [Análise de Dados do Aplicativo de Relacionamento OkCupid — Identificando padrões de usuários.](https://medium.com/@ericfruchi/an%C3%A1lise-do-perfil-dos-usu%C3%A1rios-do-aplicativo-okcupid-9d8f8570d80a)
 
 
-**Links para onde me encontrar:**
-*   [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>](https://www.linkedin.com/in/eric-fruchi-93137387/)
-* [Blog Medium](https://medium.com/@ericfruchi)
-* [Portfólio de Dashboards](https://sites.google.com/view/ericfruchi-dashportfolio/home)
+<h2 align="left">Socia Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ericfruchi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@ericfruchi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://linktr.ee/ericfruchi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+</div>
+
+###
