@@ -3,7 +3,6 @@
 </p>
 
 # Eric Fruchi
-<sub>**Não sei se foi eu que encontrei a análise de dados ou foi a análise de dados que me encontrou🤝**</sub>
 
 ## Projetos em Python:
 * [Análise de Dados - Estádios pelo Mundo](Análise_de_Dados_Estádios_pelo_Mundo.ipynb)
@@ -13,8 +12,8 @@
 * [Analisando os Dados do Airbnb - Cidade de Amsterdã](https://github.com/ericfruchi/portifolio/blob/master/Analisando_os_Dados_do_Airbnb_Amsterd%C3%A3_com_Python.ipynb) 
     * [Meu artigo no Medium desse projeto (Airbnb Cidade de Amsterdã)](https://medium.com/@ericfruchi/analisando-os-dados-do-airbnb-da-cidade-de-amsterd%C3%A3-com-python-2c2cd9e4d23a)
 
-Falando em artigos do Medium, apresento mais alguns:
-* [Analisando histórico de vendas de uma padaria — Identificando padrões de vendas e clientes.](https://medium.com/@ericfruchi/an%C3%A1lise-de-dados-de-uma-padaria-853d9af167ee)
+Falando em artigos do Medium... apresento mais alguns:
+* [Analisando Histórico de Vendas de uma Padaria — Identificando Padrões de Vendas e Clientes.](https://medium.com/@ericfruchi/an%C3%A1lise-de-dados-de-uma-padaria-853d9af167ee)
 * [Análise de Dados do Aplicativo de Relacionamento OkCupid — Identificando padrões de usuários.](https://medium.com/@ericfruchi/an%C3%A1lise-do-perfil-dos-usu%C3%A1rios-do-aplicativo-okcupid-9d8f8570d80a)
 
 
