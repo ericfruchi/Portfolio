@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="[https://img.freepik.com/fotos-gratis/fundo-gradiente-de-grade-digital-futurista-azul-escuro_53876-129728.jpg?t=st=1712083633~exp=1712087233~hmac=7bffce3790aaab7d8746d01f6496d8a6ed0891df95ae910cc52af985d5da6ad5&w=826]">
+  <img alt="data-oriented" width="100%" src="[https://unsplash.com/pt-br/fotografias/papel-de-impressao-branco-com-numeros-Wpnoqo2plFA]">
 </p>
 
 # Eric Fruchi
