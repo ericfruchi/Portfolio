@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="data-oriented" width="100%" src="https://unsplash.com/pt-br/fotografias/papel-de-impressao-branco-com-numeros-Wpnoqo2plFA">
+  <img alt="data-oriented" width="100%" src=("https://unsplash.com/pt-br/fotografias/papel-de-impressao-branco-com-numeros-Wpnoqo2plFA")>
 </p>
 
 # Eric Fruchi
