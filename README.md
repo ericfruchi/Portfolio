@@ -6,6 +6,7 @@
 # Eric Fruchi
 
 ## Meus Projetos em Python:
+* [Explorando os Dados do IMDb - Filmes](Explorando_os_Dados_do_IMDb_Filmes.ipynb)
 * [Análise de Dados - Estádios pelo Mundo](Análise_de_Dados_Estádios_pelo_Mundo.ipynb)
 * [Analisando o Jogo, Consumo e Audiência do Super Bowl](https://github.com/ericfruchi/Portfolio/blob/master/Analisando_o_jogo%2C_consumo_e_audi%C3%AAncia_do_Super_Bowl.ipynb)
 * [Análise de Dados - NBA Players](https://github.com/ericfruchi/Portfolio/blob/master/An%C3%A1lise_de_Dados_NBA_Players.ipynb)
