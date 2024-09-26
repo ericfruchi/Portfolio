@@ -2,9 +2,6 @@
   <img alt="data-oriented" width="100%" src="https://github.com/ericfruchi/fonte_de_dados/blob/master/cover_github.png?raw=true">
 </p>
 
-
-# Eric Fruchi
-
 ## Meus Projetos em Python:
 * [Explorando os Dados do IMDb - Filmes](Explorando_os_Dados_do_IMDb_Filmes.ipynb) 🎥
     * [Artigo - Explorando os Dados do IMDb — Uma Análise dos Filmes Mais Bem Avaliados](https://medium.com/@ericfruchi/explorando-os-dados-do-imdb-uma-an%C3%A1lise-dos-filmes-mais-bem-avaliados-78473f552f1a)   
